@@ -1,1 +1,0 @@
-thêm thời gian cuộn trong mã sau #messages-container {   overflow-y: auto;   scroll-behavior: smooth; /* Kích hoạt cuộn mượt mà */ }
