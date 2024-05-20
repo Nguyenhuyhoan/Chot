@@ -1,1 +1,1 @@
-{"id":"1716174692768","text":"Hê hô","image_url":"https://raw.githubusercontent.com/Nguyenhuyhoan/Chot/main/images/1716174692768.jpeg"}
+{"id":"1716175080650","text":"Hí","image_url":"https://raw.githubusercontent.com/Nguyenhuyhoan/Chot/main/images/1716175080650.jpeg"}
